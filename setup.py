@@ -15,7 +15,8 @@ setup(
             'compiled_cairo/*',
             'build/compiled_cairo_files/*',
             'tools/py/*',
-            'packages/hdp_bootloader/*'
+            'packages/hdp_bootloader/bootloader/*',
+            'packages/hdp_bootloader/builtin_selection/*'
         ],
     },
 )
